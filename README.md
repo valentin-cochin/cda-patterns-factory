@@ -22,6 +22,6 @@
 
 ## Stuff that might help you 🆘
 - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-- [Update a GitHub forked repository](https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist)
+- [Update a GitHub forked repository](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
 
 > **FOOTNOTE**: This repo was used for a presentation I had made with a coworker during my training to become a developer. It shows an example of an implementation of the factory method pattern in Java.
