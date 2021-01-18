@@ -8,7 +8,7 @@
 ## Steps of the exercise
 
 ### Mandatory 👶
-- Fork the project (and hit the ⭐ button while you're at it). Read the ![doc](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) here if you don't how to do it.
+- Fork the project (and hit the ⭐ button while you're at it). Read the [doc](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) here if you don't how to do it.
 - Clone the project from your forked repo onto your computer.
 - Create your own dev-yourName branch with *git branch* command. 
 - Add a new **concrete product** named *ConsoleHello* and a **concrete creator** called *ConsoleDialog*. You should be able to display "Hello world!" in the terminal.
